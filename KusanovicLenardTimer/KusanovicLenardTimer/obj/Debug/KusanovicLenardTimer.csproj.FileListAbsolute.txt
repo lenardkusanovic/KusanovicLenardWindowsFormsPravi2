@@ -1,0 +1,9 @@
+C:\Users\Kuso\source\repos\KusanovicLenardTimer\KusanovicLenardTimer\bin\Debug\KusanovicLenardTimer.exe.config
+C:\Users\Kuso\source\repos\KusanovicLenardTimer\KusanovicLenardTimer\bin\Debug\KusanovicLenardTimer.exe
+C:\Users\Kuso\source\repos\KusanovicLenardTimer\KusanovicLenardTimer\bin\Debug\KusanovicLenardTimer.pdb
+C:\Users\Kuso\source\repos\KusanovicLenardTimer\KusanovicLenardTimer\obj\Debug\KusanovicLenardTimer.csprojAssemblyReference.cache
+C:\Users\Kuso\source\repos\KusanovicLenardTimer\KusanovicLenardTimer\obj\Debug\KusanovicLenardTimer.Form1.resources
+C:\Users\Kuso\source\repos\KusanovicLenardTimer\KusanovicLenardTimer\obj\Debug\KusanovicLenardTimer.Properties.Resources.resources
+C:\Users\Kuso\source\repos\KusanovicLenardTimer\KusanovicLenardTimer\obj\Debug\KusanovicLenardTimer.csproj.GenerateResource.cache
+C:\Users\Kuso\source\repos\KusanovicLenardTimer\KusanovicLenardTimer\obj\Debug\KusanovicLenardTimer.exe
+C:\Users\Kuso\source\repos\KusanovicLenardTimer\KusanovicLenardTimer\obj\Debug\KusanovicLenardTimer.pdb
